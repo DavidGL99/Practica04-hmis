@@ -10487,3 +10487,8 @@ section#contact form#contactForm :-ms-input-placeholder {
   display : flex;
   justify-content: center;
 }
+
+#miembros{
+  display : flex;
+  justify-content: center;
+}
